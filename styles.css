@@ -49,6 +49,13 @@ body {
   text-transform: capitalize;
 }
 
+.hng_link {
+  text-decoration: none;
+  color: #41dfff;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
 li {
   list-style: none;
   margin: 50px 0;
